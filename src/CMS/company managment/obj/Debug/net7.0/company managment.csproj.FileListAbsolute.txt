@@ -1,0 +1,14 @@
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\bin\Debug\net7.0\company managment.exe
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\bin\Debug\net7.0\company managment.deps.json
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\bin\Debug\net7.0\company managment.runtimeconfig.json
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\bin\Debug\net7.0\company managment.dll
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\bin\Debug\net7.0\company managment.pdb
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.AssemblyInfoInputs.cache
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.AssemblyInfo.cs
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.dll
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\refint\company managment.dll
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.pdb
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\company managment.genruntimeconfig.cache
+C:\Users\ahmed.abdelnabi\source\repos\CMS\company managment\obj\Debug\net7.0\ref\company managment.dll
